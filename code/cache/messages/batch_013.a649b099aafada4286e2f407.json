@@ -1,0 +1,194 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1991,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1117,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "8800",
+      "category": "shopping",
+      "currency": "INR",
+      "date": "",
+      "kind": "charge_disputed_open",
+      "percent": "",
+      "scope": "",
+      "summary": "Possible duplicate card charge is under open dispute with no reversal posted yet."
+     }
+    ],
+    "message_id": "message_157"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Next ShiftPay payout is pending and weekly earnings may still change."
+     }
+    ],
+    "message_id": "message_158"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "bonus",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Quarterly bonus amount and payment date are not yet approved."
+     }
+    ],
+    "message_id": "message_159"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "",
+      "summary": "Seasonal contract ended with no off-season income or renewal confirmed."
+     }
+    ],
+    "message_id": "message_160"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "other",
+      "percent": "",
+      "scope": "",
+      "summary": "Minimum payments are due on two separate card accounts this month."
+     }
+    ],
+    "message_id": "message_161"
+   },
+   {
+    "facts": [
+     {
+      "amount": "2024",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2026-01-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of EUR 2024 confirmed for credit on 2026-01-15."
+     }
+    ],
+    "message_id": "message_162"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "investment",
+      "currency": "",
+      "date": "",
+      "kind": "non_cash_valuation",
+      "percent": "",
+      "scope": "",
+      "summary": "Portfolio valuation fell but it is unrealized with no cash transaction."
+     }
+    ],
+    "message_id": "message_163"
+   },
+   {
+    "facts": [
+     {
+      "amount": "145.8",
+      "category": "shopping",
+      "currency": "USD",
+      "date": "",
+      "kind": "charge_disputed_open",
+      "percent": "",
+      "scope": "",
+      "summary": "Possible duplicate card charge is under open dispute with no reversal posted yet."
+     }
+    ],
+    "message_id": "message_164"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "2025-02-23",
+      "kind": "salary_date_change",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed salary is now expected on 2025-02-23, replacing the earlier date."
+     }
+    ],
+    "message_id": "message_165"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "",
+      "summary": "Seasonal contract ended with no off-season income or renewal confirmed."
+     }
+    ],
+    "message_id": "message_166"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "refund",
+      "currency": "",
+      "date": "",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Foreign-currency refund still processing; final home-currency credit depends on settlement rate."
+     }
+    ],
+    "message_id": "message_167"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Next QuickCrew payout is pending and weekly earnings may still change."
+     }
+    ],
+    "message_id": "message_168"
+   }
+  ]
+ }
+}

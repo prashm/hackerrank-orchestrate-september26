@@ -1,0 +1,204 @@
+{
+ "_meta": {
+  "cache_read_tokens": 0,
+  "cache_write_tokens": 1416,
+  "input_tokens": 1725,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1241,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "42750000",
+      "category": "salary",
+      "currency": "IDR",
+      "date": "2025-08-15",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Monthly salary increases to IDR 42,750,000 effective 2025-08-15."
+     }
+    ],
+    "message_id": "message_01"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Regular salary for the next payroll is confirmed; one-time adjustment shown separately."
+     }
+    ],
+    "message_id": "message_02"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "bonus",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Quarterly bonus amount and payment date are not yet approved."
+     }
+    ],
+    "message_id": "message_03"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1037.52",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Temporary reduced monthly pay of EUR 1037.52 for the next payroll."
+     }
+    ],
+    "message_id": "message_04"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "2024-09-23",
+      "kind": "salary_date_change",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed salary now expected on 2024-09-23."
+     }
+    ],
+    "message_id": "message_05"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1422.85",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Next salary reduced to EUR 1422.85 due to unpaid leave."
+     }
+    ],
+    "message_id": "message_06"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "gig_income",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Next QuickCrew payout is pending and earnings may change."
+     }
+    ],
+    "message_id": "message_07"
+   },
+   {
+    "facts": [
+     {
+      "amount": "38760000",
+      "category": "salary",
+      "currency": "IDR",
+      "date": "",
+      "kind": "base_salary_only",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed base salary IDR 38,760,000; pending commissions not approved."
+     }
+    ],
+    "message_id": "message_08"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "",
+      "summary": "Seasonal contract ended with no confirmed further income."
+     }
+    ],
+    "message_id": "message_09"
+   },
+   {
+    "facts": [
+     {
+      "amount": "2717",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2025-08-15",
+      "kind": "salary_resumes",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Regular salary of EUR 2717 resumes on 2025-08-15."
+     },
+     {
+      "amount": "",
+      "category": "childcare",
+      "currency": "",
+      "date": "",
+      "kind": "new_recurring_expense",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "A new recurring childcare payment begins in August 2025."
+     }
+    ],
+    "message_id": "message_10"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1661",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2026-01-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of EUR 1661 confirmed for 2026-01-15."
+     }
+    ],
+    "message_id": "message_11"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "rent",
+      "currency": "",
+      "date": "",
+      "kind": "expense_change",
+      "percent": "12",
+      "scope": "permanent",
+      "summary": "Renewed lease increases monthly rent by 12% from next payment."
+     }
+    ],
+    "message_id": "message_12"
+   }
+  ]
+ }
+}

@@ -1,0 +1,204 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1675,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1210,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "refund",
+      "currency": "",
+      "date": "",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Foreign-currency refund still processing; home-currency credit depends on settlement-date rate."
+     }
+    ],
+    "message_id": "message_133"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "prize",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Prize claim verified but payment not yet received."
+     }
+    ],
+    "message_id": "message_134"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "internal_transfer",
+      "percent": "",
+      "scope": "",
+      "summary": "Matching debit and credit were a transfer between the user's own accounts."
+     }
+    ],
+    "message_id": "message_135"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "credit_card",
+      "currency": "",
+      "date": "",
+      "kind": "other",
+      "percent": "",
+      "scope": "",
+      "summary": "Minimum payments are due on two separate card accounts this month."
+     }
+    ],
+    "message_id": "message_136"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1284",
+      "category": "salary",
+      "currency": "USD",
+      "date": "2025-11-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Salary of USD 1284 confirmed for 2025-11-15."
+     },
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Home-currency amount depends on settlement-date conversion rate."
+     }
+    ],
+    "message_id": "message_137"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1924.56",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Temporary reduced pay of EUR 1924.56 for the next payroll."
+     }
+    ],
+    "message_id": "message_138"
+   },
+   {
+    "facts": [
+     {
+      "amount": "847",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "base_salary_only",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed base salary EUR 847; commission pending and excluded."
+     }
+    ],
+    "message_id": "message_139"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1731.60",
+      "category": "salary",
+      "currency": "USD",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Next salary reduced to USD 1731.60 due to unpaid leave."
+     }
+    ],
+    "message_id": "message_140"
+   },
+   {
+    "facts": [
+     {
+      "amount": "2376",
+      "category": "freelance",
+      "currency": "EUR",
+      "date": "2024-12-15",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Approved invoice payment of EUR 2376 expected 2024-12-15; other invoices pending."
+     }
+    ],
+    "message_id": "message_141"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "suspicious_request",
+      "percent": "",
+      "scope": "",
+      "summary": "Message demands a fee payment to claim a cash prize; likely scam."
+     }
+    ],
+    "message_id": "message_142"
+   },
+   {
+    "facts": [
+     {
+      "amount": "59000",
+      "category": "salary",
+      "currency": "INR",
+      "date": "2026-07-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of INR 59000 confirmed for 2026-07-15."
+     }
+    ],
+    "message_id": "message_143"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "bonus",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Quarterly bonus amount and date not yet approved."
+     }
+    ],
+    "message_id": "message_144"
+   }
+  ]
+ }
+}

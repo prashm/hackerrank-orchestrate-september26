@@ -1,0 +1,47 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1072,
+  "cache_write_tokens": 0,
+  "input_tokens": 1730,
+  "model": "claude-opus-5-5",
+  "output_tokens": 234,
+  "provider": "anthropic"
+ },
+ "data": {
+  "amount": "79679.26",
+  "amount_label": "Total",
+  "confidence": "high",
+  "currency": "INR",
+  "doc_type": "invoice",
+  "document_date": "",
+  "due_date": "",
+  "other_amounts": [
+   {
+    "amount": "72045.00",
+    "label": "Sub Total"
+   },
+   {
+    "amount": "1513.13",
+    "label": "CGST2.5 (2.5%)"
+   },
+   {
+    "amount": "1513.13",
+    "label": "SGST2.5 (2.5%)"
+   },
+   {
+    "amount": "2304.00",
+    "label": "CGST20 (20%)"
+   },
+   {
+    "amount": "2304.00",
+    "label": "SGST20 (20%)"
+   },
+   {
+    "amount": "79679.26",
+    "label": "Balance Due"
+   }
+  ],
+  "period": "",
+  "suspicious_instructions": []
+ }
+}

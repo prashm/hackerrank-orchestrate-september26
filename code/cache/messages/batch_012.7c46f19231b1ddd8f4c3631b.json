@@ -1,0 +1,194 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1770,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1206,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Foreign-currency charge; final home-currency amount will be set at settlement rate."
+     }
+    ],
+    "message_id": "message_145"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Foreign-currency refund still processing; final home-currency credit depends on settlement rate."
+     }
+    ],
+    "message_id": "message_146"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "rent",
+      "currency": "",
+      "date": "",
+      "kind": "expense_change",
+      "percent": "12",
+      "scope": "permanent",
+      "summary": "Renewed lease increases monthly rent by 12% from the next rent payment."
+     }
+    ],
+    "message_id": "message_147"
+   },
+   {
+    "facts": [
+     {
+      "amount": "31889",
+      "category": "salary",
+      "currency": "ZAR",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Next salary reduced to ZAR 31889 due to approved unpaid leave."
+     }
+    ],
+    "message_id": "message_148"
+   },
+   {
+    "facts": [
+     {
+      "amount": "145000",
+      "category": "salary",
+      "currency": "INR",
+      "date": "2024-09-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary from new employer of INR 145000 confirmed for 2024-09-15."
+     }
+    ],
+    "message_id": "message_149"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "work_expense",
+      "currency": "",
+      "date": "",
+      "kind": "reimbursement_not_salary",
+      "percent": "",
+      "scope": "",
+      "summary": "Employer credit is a work expense reimbursement, not salary; claim closed with no further reimbursement."
+     }
+    ],
+    "message_id": "message_150"
+   },
+   {
+    "facts": [
+     {
+      "amount": "627",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2026-07-15",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Monthly salary increased to EUR 627 from 2026-07-15."
+     }
+    ],
+    "message_id": "message_151"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "shopping",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Merchant refund initiated but not yet received."
+     }
+    ],
+    "message_id": "message_152"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1750.32",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Temporary reduced monthly pay of EUR 1750.32 for the next payroll."
+     }
+    ],
+    "message_id": "message_153"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "2025-08-23",
+      "kind": "salary_date_change",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed salary now expected on 2025-08-23, replacing the earlier date."
+     }
+    ],
+    "message_id": "message_154"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1222.65",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Next salary reduced to EUR 1222.65 due to approved unpaid leave."
+     }
+    ],
+    "message_id": "message_155"
+   },
+   {
+    "facts": [
+     {
+      "amount": "38190000",
+      "category": "salary",
+      "currency": "IDR",
+      "date": "2025-11-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of IDR 38190000 approved and scheduled for 2025-11-15."
+     }
+    ],
+    "message_id": "message_156"
+   }
+  ]
+ }
+}

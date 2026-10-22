@@ -1,0 +1,224 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1748,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1373,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "2025-05-23",
+      "kind": "salary_date_change",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Salary date revised to 2025-05-23."
+     }
+    ],
+    "message_id": "message_73"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1804",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2025-08-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Salary of EUR 1804 confirmed for 2025-08-15."
+     },
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2025-08-15",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Home-currency amount depends on settlement-date conversion."
+     }
+    ],
+    "message_id": "message_74"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "prize",
+      "currency": "",
+      "date": "",
+      "kind": "income_received_final",
+      "percent": "",
+      "scope": "",
+      "summary": "Prize proceeds received after withholding; no further payment expected."
+     }
+    ],
+    "message_id": "message_75"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1419",
+      "category": "invoice",
+      "currency": "EUR",
+      "date": "2026-04-15",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Invoice payment of EUR 1419 approved, settling 2026-04-15."
+     },
+     {
+      "amount": "",
+      "category": "invoice",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Other submitted invoices still awaiting approval."
+     }
+    ],
+    "message_id": "message_76"
+   },
+   {
+    "facts": [
+     {
+      "amount": "164880",
+      "category": "salary",
+      "currency": "INR",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Temporary reduced pay of INR 164880 for the next payroll."
+     }
+    ],
+    "message_id": "message_77"
+   },
+   {
+    "facts": [
+     {
+      "amount": "35860",
+      "category": "salary",
+      "currency": "ZAR",
+      "date": "",
+      "kind": "base_salary_only",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed base salary ZAR 35860; commission pending."
+     }
+    ],
+    "message_id": "message_78"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "investment",
+      "currency": "",
+      "date": "",
+      "kind": "non_cash_valuation",
+      "percent": "",
+      "scope": "",
+      "summary": "Portfolio displayed value increased; unrealized and fluctuating."
+     }
+    ],
+    "message_id": "message_79"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1815",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2024-12-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary from new employer EUR 1815 confirmed for 2024-12-15."
+     }
+    ],
+    "message_id": "message_80"
+   },
+   {
+    "facts": [
+     {
+      "amount": "2123",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2025-05-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of EUR 2123 approved for 2025-05-15."
+     }
+    ],
+    "message_id": "message_81"
+   },
+   {
+    "facts": [
+     {
+      "amount": "33440",
+      "category": "salary",
+      "currency": "ZAR",
+      "date": "",
+      "kind": "base_salary_only",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed base salary ZAR 33440; commission pending."
+     }
+    ],
+    "message_id": "message_82"
+   },
+   {
+    "facts": [
+     {
+      "amount": "16720",
+      "category": "invoice",
+      "currency": "ZAR",
+      "date": "2025-08-15",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Invoice payment of ZAR 16720 approved, settling 2025-08-15."
+     },
+     {
+      "amount": "",
+      "category": "invoice",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Other submitted invoices still awaiting approval."
+     }
+    ],
+    "message_id": "message_83"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Employment ended; no regular salary after final settlement."
+     }
+    ],
+    "message_id": "message_84"
+   }
+  ]
+ }
+}

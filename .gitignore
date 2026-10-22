@@ -1,0 +1,8 @@
+log.txt
+code.zip
+.env
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+code/traces/

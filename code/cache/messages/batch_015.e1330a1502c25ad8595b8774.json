@@ -1,0 +1,214 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1844,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1280,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "2772",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2024-06-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of EUR 2772 confirmed for 2024-06-15."
+     }
+    ],
+    "message_id": "message_181"
+   },
+   {
+    "facts": [
+     {
+      "amount": "16910000",
+      "category": "salary",
+      "currency": "IDR",
+      "date": "2025-11-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of IDR 16910000 approved and scheduled for 2025-11-15."
+     }
+    ],
+    "message_id": "message_182"
+   },
+   {
+    "facts": [
+     {
+      "amount": "45.65",
+      "category": "shopping",
+      "currency": "EUR",
+      "date": "",
+      "kind": "charge_disputed_open",
+      "percent": "",
+      "scope": "",
+      "summary": "Possible duplicate card charge is under open dispute with no reversal posted."
+     }
+    ],
+    "message_id": "message_183"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Foreign-currency refund still processing; home-currency amount depends on settlement rate."
+     }
+    ],
+    "message_id": "message_184"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "investment",
+      "currency": "",
+      "date": "",
+      "kind": "non_cash_valuation",
+      "percent": "",
+      "scope": "",
+      "summary": "Portfolio valuation fell but is unrealized with no cash transaction."
+     }
+    ],
+    "message_id": "message_185"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Seasonal contract ended with no confirmed off-season income or extension."
+     }
+    ],
+    "message_id": "message_186"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "One household employment record has ended."
+     },
+     {
+      "amount": "912",
+      "category": "salary",
+      "currency": "USD",
+      "date": "",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Remaining confirmed monthly salary is USD 912."
+     }
+    ],
+    "message_id": "message_187"
+   },
+   {
+    "facts": [
+     {
+      "amount": "62000",
+      "category": "salary",
+      "currency": "INR",
+      "date": "2026-01-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of INR 62000 confirmed for 2026-01-15."
+     }
+    ],
+    "message_id": "message_188"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Seasonal contract ended with no confirmed off-season income or extension."
+     }
+    ],
+    "message_id": "message_189"
+   },
+   {
+    "facts": [
+     {
+      "amount": "968",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2025-08-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of EUR 968 approved and scheduled for 2025-08-15."
+     }
+    ],
+    "message_id": "message_190"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1680",
+      "category": "salary",
+      "currency": "USD",
+      "date": "2025-11-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Salary of USD 1680 confirmed for 2025-11-15."
+     },
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Home-currency amount depends on settlement-date conversion rate."
+     }
+    ],
+    "message_id": "message_191"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Employment ended with no regular salary after final settlement."
+     }
+    ],
+    "message_id": "message_192"
+   }
+  ]
+ }
+}

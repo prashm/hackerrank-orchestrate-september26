@@ -1,0 +1,224 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1783,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1345,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "internal_transfer",
+      "percent": "",
+      "scope": "",
+      "summary": "Matching debit and credit were a transfer between the user's own two accounts."
+     }
+    ],
+    "message_id": "message_13"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "refund",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Merchant refund initiated but not yet credited."
+     }
+    ],
+    "message_id": "message_14"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "investment",
+      "currency": "",
+      "date": "",
+      "kind": "non_cash_valuation",
+      "percent": "",
+      "scope": "",
+      "summary": "Portfolio market value increased but no units sold and no cash generated."
+     }
+    ],
+    "message_id": "message_15"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "windfall",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Prize claim verified but payment not yet credited."
+     }
+    ],
+    "message_id": "message_16"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "windfall",
+      "currency": "",
+      "date": "",
+      "kind": "income_received_final",
+      "percent": "",
+      "scope": "",
+      "summary": "Prize proceeds received after withholding; claim closed with no further payments."
+     }
+    ],
+    "message_id": "message_17"
+   },
+   {
+    "facts": [
+     {
+      "amount": "30780000",
+      "category": "invoice",
+      "currency": "IDR",
+      "date": "2025-08-15",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Client approved invoice payment of IDR 30,780,000 expected to settle 2025-08-15."
+     },
+     {
+      "amount": "",
+      "category": "invoice",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Other submitted invoices are still awaiting approval."
+     }
+    ],
+    "message_id": "message_18"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "gig_income",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "TaskLoop payout still pending and earnings may change."
+     }
+    ],
+    "message_id": "message_19"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1452",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Regular salary for next payroll is EUR 1452."
+     },
+     {
+      "amount": "653.40",
+      "category": "arrears",
+      "currency": "EUR",
+      "date": "",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "One-time arrears adjustment of EUR 653.40 in the next payroll."
+     }
+    ],
+    "message_id": "message_20"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "",
+      "summary": "Seasonal contract ended with no off-season income or renewal confirmed."
+     }
+    ],
+    "message_id": "message_21"
+   },
+   {
+    "facts": [
+     {
+      "amount": "54120",
+      "category": "salary",
+      "currency": "ZAR",
+      "date": "2025-02-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of ZAR 54120 confirmed for credit on 2025-02-15."
+     }
+    ],
+    "message_id": "message_22"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "internal_transfer",
+      "percent": "",
+      "scope": "",
+      "summary": "Matching debit and credit were a transfer between the user's own two accounts."
+     }
+    ],
+    "message_id": "message_23"
+   },
+   {
+    "facts": [
+     {
+      "amount": "196000",
+      "category": "invoice",
+      "currency": "INR",
+      "date": "2024-12-15",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Client approved invoice payment of INR 196000 expected to settle 2024-12-15."
+     },
+     {
+      "amount": "",
+      "category": "invoice",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Other submitted invoices are still awaiting approval."
+     }
+    ],
+    "message_id": "message_24"
+   }
+  ]
+ }
+}

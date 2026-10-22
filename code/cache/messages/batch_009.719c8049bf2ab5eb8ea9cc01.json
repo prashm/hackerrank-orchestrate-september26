@@ -1,0 +1,244 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1831,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1525,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "2040",
+      "category": "",
+      "currency": "USD",
+      "date": "2024-12-15",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Client approved an invoice payment of USD 2040 settling 2024-12-15."
+     },
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Other submitted invoices are still awaiting approval."
+     }
+    ],
+    "message_id": "message_109"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "windfall",
+      "currency": "",
+      "date": "",
+      "kind": "income_received_final",
+      "percent": "",
+      "scope": "",
+      "summary": "Prize proceeds received after withholding; claim closed with no further payments."
+     }
+    ],
+    "message_id": "message_110"
+   },
+   {
+    "facts": [
+     {
+      "amount": "864",
+      "category": "salary",
+      "currency": "USD",
+      "date": "2026-07-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of USD 864 confirmed for 2026-07-15."
+     }
+    ],
+    "message_id": "message_111"
+   },
+   {
+    "facts": [
+     {
+      "amount": "258000",
+      "category": "salary",
+      "currency": "INR",
+      "date": "",
+      "kind": "base_salary_only",
+      "percent": "",
+      "scope": "",
+      "summary": "Regular salary for next payroll is INR 258000."
+     },
+     {
+      "amount": "116100",
+      "category": "arrears",
+      "currency": "INR",
+      "date": "",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "One-time arrears adjustment of INR 116100 in the same payroll."
+     }
+    ],
+    "message_id": "message_112"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1529",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2026-04-15",
+      "kind": "salary_resumes",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Regular salary of EUR 1529 resumes on 2026-04-15."
+     },
+     {
+      "amount": "",
+      "category": "childcare",
+      "currency": "",
+      "date": "",
+      "kind": "new_recurring_expense",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "New recurring childcare payment begins in April 2026."
+     }
+    ],
+    "message_id": "message_113"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "investment",
+      "currency": "",
+      "date": "",
+      "kind": "income_received_final",
+      "percent": "",
+      "scope": "",
+      "summary": "Investment sale proceeds settled; no remaining proceeds pending."
+     }
+    ],
+    "message_id": "message_114"
+   },
+   {
+    "facts": [
+     {
+      "amount": "893.75",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Next salary reduced to EUR 893.75 due to unpaid leave."
+     }
+    ],
+    "message_id": "message_115"
+   },
+   {
+    "facts": [
+     {
+      "amount": "46170000",
+      "category": "salary",
+      "currency": "IDR",
+      "date": "2024-09-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of IDR 46170000 confirmed for 2024-09-15."
+     }
+    ],
+    "message_id": "message_116"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "work_expense",
+      "currency": "",
+      "date": "",
+      "kind": "reimbursement_not_salary",
+      "percent": "",
+      "scope": "",
+      "summary": "Employer credit is a work expense reimbursement, not salary; no more scheduled."
+     }
+    ],
+    "message_id": "message_117"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Foreign-currency charge; final home-currency amount set at settlement rate."
+     }
+    ],
+    "message_id": "message_118"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "One household employment record has ended."
+     },
+     {
+      "amount": "1628",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Remaining confirmed monthly salary is EUR 1628."
+     }
+    ],
+    "message_id": "message_119"
+   },
+   {
+    "facts": [
+     {
+      "amount": "84000",
+      "category": "salary",
+      "currency": "INR",
+      "date": "2025-05-15",
+      "kind": "salary_resumes",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Regular salary of INR 84000 resumes on 2025-05-15."
+     },
+     {
+      "amount": "",
+      "category": "childcare",
+      "currency": "",
+      "date": "",
+      "kind": "new_recurring_expense",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "New recurring childcare payment begins in May 2025."
+     }
+    ],
+    "message_id": "message_120"
+   }
+  ]
+ }
+}

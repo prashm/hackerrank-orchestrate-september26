@@ -1,0 +1,214 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1806,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1268,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "1528.56",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Temporary reduced monthly pay of EUR 1528.56 for the next payroll."
+     }
+    ],
+    "message_id": "message_193"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1548",
+      "category": "salary",
+      "currency": "USD",
+      "date": "",
+      "kind": "base_salary_only",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed base salary USD 1548; commission pending and excluded."
+     }
+    ],
+    "message_id": "message_194"
+   },
+   {
+    "facts": [
+     {
+      "amount": "702",
+      "category": "salary",
+      "currency": "USD",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Next salary reduced to USD 702 due to unpaid leave."
+     }
+    ],
+    "message_id": "message_195"
+   },
+   {
+    "facts": [
+     {
+      "amount": "53680",
+      "category": "salary",
+      "currency": "ZAR",
+      "date": "2024-12-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary from new employer ZAR 53680 confirmed for 2024-12-15."
+     }
+    ],
+    "message_id": "message_196"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "shopping",
+      "currency": "",
+      "date": "",
+      "kind": "charge_disputed_open",
+      "percent": "",
+      "scope": "",
+      "summary": "Possible duplicate card charge dispute is still open; reversal not posted."
+     }
+    ],
+    "message_id": "message_197"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "utilities",
+      "currency": "",
+      "date": "",
+      "kind": "bill_retry",
+      "percent": "",
+      "scope": "",
+      "summary": "Failed bill debit; bill still outstanding and will be retried."
+     }
+    ],
+    "message_id": "message_198"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "bonus",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Quarterly bonus amount and date not yet approved."
+     }
+    ],
+    "message_id": "message_199"
+   },
+   {
+    "facts": [
+     {
+      "amount": "214000",
+      "category": "salary",
+      "currency": "INR",
+      "date": "2024-06-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary INR 214000 confirmed for 2024-06-15."
+     }
+    ],
+    "message_id": "message_200"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "utilities",
+      "currency": "",
+      "date": "",
+      "kind": "bill_retry",
+      "percent": "",
+      "scope": "",
+      "summary": "Failed bill debit; bill still outstanding and will be retried."
+     }
+    ],
+    "message_id": "message_201"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "internal_transfer",
+      "percent": "",
+      "scope": "",
+      "summary": "Matching debit and credit were a transfer between the user's own accounts."
+     }
+    ],
+    "message_id": "message_202"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "One household employment income source has ended."
+     },
+     {
+      "amount": "48260000",
+      "category": "salary",
+      "currency": "IDR",
+      "date": "",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Remaining confirmed monthly salary is IDR 48260000."
+     }
+    ],
+    "message_id": "message_203"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1485",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2025-05-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Salary EUR 1485 confirmed for 2025-05-15."
+     },
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Home-currency amount depends on settlement-date conversion rate."
+     }
+    ],
+    "message_id": "message_204"
+   }
+  ]
+ }
+}

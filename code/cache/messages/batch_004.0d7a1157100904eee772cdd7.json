@@ -1,0 +1,224 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1710,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1363,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "116000",
+      "category": "invoice_payment",
+      "currency": "INR",
+      "date": "2026-04-15",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Client approved an invoice payment of INR 116000 settling 2026-04-15."
+     },
+     {
+      "amount": "",
+      "category": "invoice_payment",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Other submitted invoices are still awaiting approval."
+     }
+    ],
+    "message_id": "message_49"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "2025-02-23",
+      "kind": "salary_date_change",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed salary now expected on 2025-02-23."
+     }
+    ],
+    "message_id": "message_50"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "rent",
+      "currency": "",
+      "date": "",
+      "kind": "expense_change",
+      "percent": "12",
+      "scope": "permanent",
+      "summary": "Monthly rent increases by 12% from the next rent payment."
+     }
+    ],
+    "message_id": "message_51"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "investment",
+      "currency": "",
+      "date": "",
+      "kind": "non_cash_valuation",
+      "percent": "",
+      "scope": "",
+      "summary": "Portfolio value increased but no units sold and no cash generated."
+     }
+    ],
+    "message_id": "message_52"
+   },
+   {
+    "facts": [
+     {
+      "amount": "696",
+      "category": "salary",
+      "currency": "USD",
+      "date": "2025-05-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Salary of USD 696 confirmed for 2025-05-15."
+     },
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "USD",
+      "date": "2025-05-15",
+      "kind": "fx_settlement_note",
+      "percent": "",
+      "scope": "",
+      "summary": "Amount received depends on the exchange rate at settlement date."
+     }
+    ],
+    "message_id": "message_53"
+   },
+   {
+    "facts": [
+     {
+      "amount": "18700",
+      "category": "salary",
+      "currency": "ZAR",
+      "date": "2026-07-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of ZAR 18700 confirmed for 2026-07-15."
+     }
+    ],
+    "message_id": "message_54"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "rent",
+      "currency": "",
+      "date": "",
+      "kind": "expense_change",
+      "percent": "12",
+      "scope": "permanent",
+      "summary": "Monthly rent increases by 12% from the next rent payment."
+     }
+    ],
+    "message_id": "message_55"
+   },
+   {
+    "facts": [
+     {
+      "amount": "26180",
+      "category": "invoice_payment",
+      "currency": "ZAR",
+      "date": "2025-08-15",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Client approved an invoice payment of ZAR 26180 settling 2025-08-15."
+     },
+     {
+      "amount": "",
+      "category": "invoice_payment",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Other submitted invoices are still awaiting approval."
+     }
+    ],
+    "message_id": "message_56"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Employment ended; no regular salary after final settlement."
+     }
+    ],
+    "message_id": "message_57"
+   },
+   {
+    "facts": [
+     {
+      "amount": "3072",
+      "category": "salary",
+      "currency": "USD",
+      "date": "",
+      "kind": "base_salary_only",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed base salary USD 3072; commission pending and excluded."
+     }
+    ],
+    "message_id": "message_58"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "refund",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Refund initiated but not yet credited."
+     }
+    ],
+    "message_id": "message_59"
+   },
+   {
+    "facts": [
+     {
+      "amount": "158000",
+      "category": "salary",
+      "currency": "INR",
+      "date": "",
+      "kind": "base_salary_only",
+      "percent": "",
+      "scope": "",
+      "summary": "Confirmed base salary INR 158000; commission pending and excluded."
+     }
+    ],
+    "message_id": "message_60"
+   }
+  ]
+ }
+}

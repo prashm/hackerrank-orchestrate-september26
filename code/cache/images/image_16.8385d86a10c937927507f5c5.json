@@ -1,0 +1,35 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1072,
+  "cache_write_tokens": 0,
+  "input_tokens": 2020,
+  "model": "claude-opus-5-5",
+  "output_tokens": 172,
+  "provider": "anthropic"
+ },
+ "data": {
+  "amount": "393.22",
+  "amount_label": "Total",
+  "confidence": "high",
+  "currency": "INR",
+  "doc_type": "invoice",
+  "document_date": "2026-09-03",
+  "due_date": "",
+  "other_amounts": [
+   {
+    "amount": "333.24",
+    "label": "Energy charge (12.58 kWh @ 26.49/kWh)"
+   },
+   {
+    "amount": "29.99",
+    "label": "CGST 9 %"
+   },
+   {
+    "amount": "29.99",
+    "label": "SGST 9 %"
+   }
+  ],
+  "period": "",
+  "suspicious_instructions": []
+ }
+}

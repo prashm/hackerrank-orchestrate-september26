@@ -1,0 +1,47 @@
+{
+ "_meta": {
+  "cache_read_tokens": 0,
+  "cache_write_tokens": 1072,
+  "input_tokens": 2985,
+  "model": "claude-opus-5-5",
+  "output_tokens": 221,
+  "provider": "anthropic"
+ },
+ "data": {
+  "amount": "4365000",
+  "amount_label": "Net Pay",
+  "confidence": "high",
+  "currency": "IDR",
+  "doc_type": "payslip",
+  "document_date": "2019-09-02",
+  "due_date": "",
+  "other_amounts": [
+   {
+    "amount": "4500000",
+    "label": "Salary"
+   },
+   {
+    "amount": "4780800",
+    "label": "Subtotal Earnings"
+   },
+   {
+    "amount": "4780800",
+    "label": "Total Earnings"
+   },
+   {
+    "amount": "415800",
+    "label": "Subtotal Deductions"
+   },
+   {
+    "amount": "415800",
+    "label": "Total Deductions"
+   },
+   {
+    "amount": "0",
+    "label": "Tax"
+   }
+  ],
+  "period": "Aug-2019",
+  "suspicious_instructions": []
+ }
+}

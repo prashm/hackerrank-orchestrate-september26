@@ -1,0 +1,59 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1072,
+  "cache_write_tokens": 0,
+  "input_tokens": 2436,
+  "model": "claude-opus-5-5",
+  "output_tokens": 306,
+  "provider": "anthropic"
+ },
+ "data": {
+  "amount": "9968.00",
+  "amount_label": "Grand Total (Total Incl Taxes)",
+  "confidence": "high",
+  "currency": "INR",
+  "doc_type": "invoice",
+  "document_date": "2026-06-07",
+  "due_date": "",
+  "other_amounts": [
+   {
+    "amount": "9124.00",
+    "label": "Taxable Value"
+   },
+   {
+    "amount": "388.00",
+    "label": "NonTaxable/Exempted Value"
+   },
+   {
+    "amount": "9512.00",
+    "label": "Total (before tax)"
+   },
+   {
+    "amount": "228.00",
+    "label": "CGST"
+   },
+   {
+    "amount": "228.00",
+    "label": "SGST/UGST"
+   },
+   {
+    "amount": "0.00",
+    "label": "IGST"
+   },
+   {
+    "amount": "0.00",
+    "label": "CESS"
+   },
+   {
+    "amount": "9580.00",
+    "label": "Air Travel and related charges (incl taxes)"
+   },
+   {
+    "amount": "388.00",
+    "label": "Airport Charges"
+   }
+  ],
+  "period": "",
+  "suspicious_instructions": []
+ }
+}

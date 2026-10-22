@@ -1,0 +1,234 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1898,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1443,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "2424",
+      "category": "salary",
+      "currency": "USD",
+      "date": "2026-07-15",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Monthly salary increases to USD 2424 from 2026-07-15."
+     }
+    ],
+    "message_id": "message_169"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1914",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "2026-04-15",
+      "kind": "salary_resumes",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Regular salary of EUR 1914 resumes on 2026-04-15."
+     },
+     {
+      "amount": "",
+      "category": "childcare",
+      "currency": "",
+      "date": "",
+      "kind": "new_recurring_expense",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "A new recurring childcare payment begins in April 2026."
+     }
+    ],
+    "message_id": "message_170"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1346.40",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Temporary reduced pay of EUR 1346.40 for the next payroll."
+     }
+    ],
+    "message_id": "message_171"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "shopping",
+      "currency": "",
+      "date": "",
+      "kind": "other",
+      "percent": "",
+      "scope": "",
+      "summary": "Merchant refund initiated but still pending, not yet received."
+     }
+    ],
+    "message_id": "message_172"
+   },
+   {
+    "facts": [
+     {
+      "amount": "35200",
+      "category": "invoice",
+      "currency": "ZAR",
+      "date": "2026-01-15",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Client approved invoice payment of ZAR 35200, settling 2026-01-15."
+     },
+     {
+      "amount": "",
+      "category": "invoice",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Other submitted invoices are still awaiting approval."
+     }
+    ],
+    "message_id": "message_173"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "work_expense",
+      "currency": "",
+      "date": "",
+      "kind": "reimbursement_not_salary",
+      "percent": "",
+      "scope": "",
+      "summary": "Recent employer funds are a work expense reimbursement, not salary; claim closed."
+     }
+    ],
+    "message_id": "message_174"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "rent",
+      "currency": "",
+      "date": "",
+      "kind": "expense_change",
+      "percent": "12",
+      "scope": "permanent",
+      "summary": "Lease renewal raises monthly rent by 12% from the next payment."
+     }
+    ],
+    "message_id": "message_175"
+   },
+   {
+    "facts": [
+     {
+      "amount": "260000",
+      "category": "salary",
+      "currency": "INR",
+      "date": "",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Regular salary for next payroll is INR 260000."
+     },
+     {
+      "amount": "117000",
+      "category": "arrears",
+      "currency": "INR",
+      "date": "",
+      "kind": "one_time_income_confirmed",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "One-time arrears adjustment of INR 117000 in the next payroll."
+     }
+    ],
+    "message_id": "message_176"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "bonus",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Quarterly bonus amount and date not yet approved."
+     }
+    ],
+    "message_id": "message_177"
+   },
+   {
+    "facts": [
+     {
+      "amount": "30400000",
+      "category": "salary",
+      "currency": "IDR",
+      "date": "2026-04-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of IDR 30400000 confirmed for 2026-04-15."
+     }
+    ],
+    "message_id": "message_178"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "utilities",
+      "currency": "",
+      "date": "",
+      "kind": "bill_retry",
+      "percent": "",
+      "scope": "",
+      "summary": "Bill debit failed; bill outstanding and will be retried."
+     }
+    ],
+    "message_id": "message_179"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "household_employment",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "One household employment income has ended."
+     },
+     {
+      "amount": "2827",
+      "category": "salary",
+      "currency": "EUR",
+      "date": "",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Remaining confirmed monthly salary is EUR 2827."
+     }
+    ],
+    "message_id": "message_180"
+   }
+  ]
+ }
+}

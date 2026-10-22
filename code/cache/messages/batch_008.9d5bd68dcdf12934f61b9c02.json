@@ -1,0 +1,204 @@
+{
+ "_meta": {
+  "cache_read_tokens": 1416,
+  "cache_write_tokens": 0,
+  "input_tokens": 1753,
+  "model": "claude-opus-5-5",
+  "output_tokens": 1202,
+  "provider": "anthropic"
+ },
+ "data": {
+  "messages": [
+   {
+    "facts": [
+     {
+      "amount": "50160",
+      "category": "salary",
+      "currency": "ZAR",
+      "date": "2024-09-15",
+      "kind": "salary_resumes",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Regular salary of ZAR 50160 resumes on 2024-09-15."
+     },
+     {
+      "amount": "",
+      "category": "childcare",
+      "currency": "",
+      "date": "",
+      "kind": "new_recurring_expense",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "A new recurring childcare payment begins in September 2024."
+     }
+    ],
+    "message_id": "message_97"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "bonus",
+      "currency": "",
+      "date": "",
+      "kind": "income_not_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "Quarterly bonus amount and date are not yet approved."
+     }
+    ],
+    "message_id": "message_98"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "windfall",
+      "currency": "",
+      "date": "",
+      "kind": "income_received_final",
+      "percent": "",
+      "scope": "",
+      "summary": "Prize proceeds received after withholding; claim closed with no further payments."
+     }
+    ],
+    "message_id": "message_99"
+   },
+   {
+    "facts": [
+     {
+      "amount": "2177.28",
+      "category": "salary",
+      "currency": "USD",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Temporary reduced pay of USD 2177.28 for the next payroll."
+     }
+    ],
+    "message_id": "message_100"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "2025-05-23",
+      "kind": "salary_date_change",
+      "percent": "",
+      "scope": "",
+      "summary": "Salary now expected on 2025-05-23."
+     }
+    ],
+    "message_id": "message_101"
+   },
+   {
+    "facts": [
+     {
+      "amount": "1193.40",
+      "category": "salary",
+      "currency": "USD",
+      "date": "",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "next_payment_only",
+      "summary": "Next salary reduced to USD 1193.40 due to unpaid leave."
+     }
+    ],
+    "message_id": "message_102"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "salary",
+      "currency": "",
+      "date": "",
+      "kind": "income_ended",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Seasonal contract ended with no further income confirmed."
+     }
+    ],
+    "message_id": "message_103"
+   },
+   {
+    "facts": [
+     {
+      "amount": "828",
+      "category": "salary",
+      "currency": "USD",
+      "date": "2026-07-15",
+      "kind": "salary_amount_change",
+      "percent": "",
+      "scope": "permanent",
+      "summary": "Monthly salary increased to USD 828 from 2026-07-15."
+     }
+    ],
+    "message_id": "message_104"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "rent",
+      "currency": "",
+      "date": "",
+      "kind": "expense_change",
+      "percent": "12",
+      "scope": "permanent",
+      "summary": "Monthly rent increases by 12% from the next payment."
+     }
+    ],
+    "message_id": "message_105"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "shopping",
+      "currency": "",
+      "date": "",
+      "kind": "charge_disputed_open",
+      "percent": "",
+      "scope": "",
+      "summary": "Duplicate card charge dispute is open with no reversal posted."
+     }
+    ],
+    "message_id": "message_106"
+   },
+   {
+    "facts": [
+     {
+      "amount": "31900",
+      "category": "salary",
+      "currency": "ZAR",
+      "date": "2025-02-15",
+      "kind": "salary_confirmed",
+      "percent": "",
+      "scope": "",
+      "summary": "First salary of ZAR 31900 confirmed for 2025-02-15."
+     }
+    ],
+    "message_id": "message_107"
+   },
+   {
+    "facts": [
+     {
+      "amount": "",
+      "category": "investment",
+      "currency": "",
+      "date": "",
+      "kind": "income_received_final",
+      "percent": "",
+      "scope": "",
+      "summary": "Investment sale proceeds settled with nothing remaining pending."
+     }
+    ],
+    "message_id": "message_108"
+   }
+  ]
+ }
+}
